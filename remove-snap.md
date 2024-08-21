@@ -5,7 +5,7 @@
 snap list
 
 # some snaps are dependent on other snaps, snap will tell you which can be first removed
-# (by dependency order)
+# in the following dependency order: Notes -, Notes base, Notes snapd)
 sudo snap remove firefox # (by dependency order)
 
 # remove the snapd package itself, including configuration files
