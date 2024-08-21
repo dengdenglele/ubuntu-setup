@@ -54,3 +54,4 @@ EOF
 ```
 
 - Link: [create special configuration file for APT, as LinuxMint did to prevent future snap installations](https://askubuntu.com/questions/1345385/how-can-i-stop-apt-from-installing-snap-packages/1345401#1345401)
+- Link: [Chapter 19. Here Documents](https://tldp.org/LDP/abs/html/here-docs.html)
